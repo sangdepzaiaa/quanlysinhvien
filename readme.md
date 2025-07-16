@@ -1,6 +1,6 @@
 # Student Management System
 
-This is my first-year project from Hanoi university civil of engineer, demonstrating my knowledge of C++ basics. The Student Management System is a console-based application designed to manage student records. It allows users to insert, view, search, delete, update, sort, and display statistics of student information.
+This is my first-year project from Huce, demonstrating my knowledge of C++ basics. The Student Management System is a console-based application designed to manage student records. It allows users to insert, view, search, delete, update, sort, and display statistics of student information.
 
 ## Features
 
